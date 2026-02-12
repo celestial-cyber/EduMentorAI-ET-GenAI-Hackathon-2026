@@ -1,0 +1,43 @@
+EduMentor AI – 7 Day Hackathon Checklist
+
+Day 1 – Setup & Architecture
+
+[ ] Finalize tech stack (FastAPI + React + ChromaDB) [ ] Create backend
+project structure [ ] Setup virtual environment [ ] Install required
+dependencies [ ] Setup frontend (Vite + React) [ ] Test backend-frontend
+connection
+
+Day 2 – RAG Doubt Solver
+
+[ ] Collect 5–10 sample NCERT PDFs [ ] Extract and chunk text [ ]
+Generate embeddings [ ] Store in ChromaDB [ ] Build /ask API endpoint [
+] Test AI doubt solving end-to-end
+
+Day 3 – Student Profile System
+
+[ ] Create students table (SQLite/Postgres) [ ] Build student
+registration endpoint [ ] Store grade, interests [ ] Implement
+weak/strong subject logic [ ] Connect profile to doubt solver
+
+Day 4 – Adaptive Quiz
+
+[ ] Create question bank (easy/medium/hard) [ ] Build quiz API endpoint
+[ ] Implement adaptive logic [ ] Store quiz results [ ] Display quiz
+results on frontend
+
+Day 5 – Career Guidance Module
+
+[ ] Create career mapping logic [ ] Build career suggestion API [ ]
+Generate AI explanation for career suggestions [ ] Display career
+recommendations in UI
+
+Day 6 – Frontend Polish
+
+[ ] Build dashboard UI [ ] Add progress bars [ ] Improve chat UI design
+[ ] Add loading spinners [ ] Fix UI responsiveness
+
+Day 7 – Final Polish & Demo Prep
+
+[ ] Seed demo student data [ ] Test full user journey [ ] Fix bugs [ ]
+Optimize prompts [ ] Practice demo (at least 3 times) [ ] Prepare pitch
+script
